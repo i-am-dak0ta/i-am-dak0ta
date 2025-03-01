@@ -29,3 +29,11 @@
 - Telegram: [@i_am_dak0ta](https://t.me/i_am_dak0ta) (Предпочтительный способ связи)
 
 - Email: [arturkuz.dkt@gmail.com](mailto:arturkuz.dkt@gmail.com)
+
+#
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
