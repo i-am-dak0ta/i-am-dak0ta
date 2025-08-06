@@ -1,34 +1,42 @@
-# Привет! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="32" height="32" /> Меня зовут Артур Кузнецов
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="32" height="32" /> Привет! Меня зовут Артур Кузнецов
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Person%20Light%20Skin%20Tone.png" alt="Person Light Skin Tone" width="26" height="26" /> О себе
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="26" height="26" /> Контакты
 
-Я – молодой и амбициозный Android-разработчик с сильной мотивацией развиваться в мобильной разработке и готовый решать сложные задачи! Стремлюсь к чистому коду, эффективным решениям и командной работе.
+**Telegram:** [@i_am_dak0ta](https://t.me/i_am_dak0ta) (Предпочтительный способ связи)
+
+**Email:** [arturkuz.dkt@gmail.com](mailto:arturkuz.dkt@gmail.com)
 
 #
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="26" height="26" /> Навыки
 
-<img alt="Kotlin" width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/> Kotlin, <img alt="Java" width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> Java, <img alt="Android" width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /> Android, <img alt="Jetpack Compose" width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" /> Jetpack Compose, XML, <img alt="Git" width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> Git, Retrofit, <img alt="KTOR" width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ktor/ktor-original.svg" /> KTOR, Koin, Dagger, Hilt, Clean Architecture, MVVM, MVU, MVI, MVP, MVC, <img alt="SQLite" width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /> SQLite
+**Языки:** Kotlin, Java, SQL
+
+**Архитектуры:** MVI, MVVM, MVU/TEA, Clean Architecture
+
+**Сетевое взаимодействие:** Ktor, Retrofit2, OkHttp3, REST API
+
+**Базы данных и хранение:** Room, SQLDelight, DataStore, SharedPreferences
+
+**Асинхронность:** Kotlin Coroutines, Flow
+
+**DI:** Koin, Dagger Hilt
+
+**UI/UX:** Jetpack Compose, Compose Navigation, XML Layouts, кастомные компоненты, адаптивный дизайн
+
+**KMP:** Kotlin Multiplatform, Shared Logic, SQLDelight, Moko, Compose Multiplatform
+
+**Инструменты:** Android Studio, Git, GitHub, GitLab, Detekt, Gradle, Figma, Notion, Jira, Trello, Zoom
 
 #
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" alt="School" width="26" height="26" /> Высшее образование
 
-**[Университет ИТМО](https://itmo.ru/), г. Санкт-Петербург**
+**Бакалавриат, [Университет ИТМО](https://itmo.ru/), г. Санкт-Петербург**
 
-- **Факультет**: Прикладной информатики
-- **Направление**: Мобильные и сетевые технологии (09.03.03)
-- **Период обучения**: Сентябрь 2022 — По настоящее время
+Факультет прикладной информатики, [Мобильные и сетевые технологии (09.03.03)](https://abit.itmo.ru/program/bachelor/cloud)
 
-#
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="26" height="26" /> Контакты
-
-Вы можете связаться со мной одним из следующих способов: 
-
-- Telegram: [@i_am_dak0ta](https://t.me/i_am_dak0ta) (Предпочтительный способ связи)
-
-- Email: [arturkuz.dkt@gmail.com](mailto:arturkuz.dkt@gmail.com)
+Сентябрь 2022 — По настоящее время
 
 #
 
